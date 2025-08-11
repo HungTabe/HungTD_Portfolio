@@ -10,7 +10,7 @@ const testimonials = [
     {
         name: "abigaildarko",
         image: "Assets/Images/Testimonial/abigaildarko.webp",
-        text: "Kishan is an exceptional artist!!!.. He designed what I requested to my satisfaction and absolute perfection!!!.. He deserves more than 5stars! I 100% recommend his services if needed. Will definitely order his gig again.",
+        text: "Hung is an exceptional artist!!!.. He designed what I requested to my satisfaction and absolute perfection!!!.. He deserves more than 5stars! I 100% recommend his services if needed. Will definitely order his gig again.",
         date: "[ MARCH, 2022 ]",
         company: "https://www.fiverr.com/favicon.ico",
         country: "Ghana"
@@ -37,7 +37,7 @@ const testimonials = [
     {
         name: "grandkadolz",
         image: "Assets/Images/Testimonial/grandkadolz.png",
-        text: "Kishan did exactly what I asked in a timely manner. I will most likely use his services again.",
+        text: "Hung did exactly what I asked in a timely manner. I will most likely use his services again.",
         date: "[ JUNE, 2023 ]",
         company: "https://www.fiverr.com/favicon.ico",
         country: "Austria"
